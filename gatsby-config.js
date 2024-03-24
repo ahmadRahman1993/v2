@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: "v2",
+      resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://ahmadrahmanv2.netlify.app/", // Used for sitemap generation
         manifestSettings: {
