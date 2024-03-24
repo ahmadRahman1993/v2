@@ -1,6 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+
 ---
 
 Hello! I’m Ahmad Rahman, a Full-Stack Software Engineer and AI Specialist dedicated to leveraging technology for impactful solutions. My journey through computer science has been marked by a commitment to innovation, continuous learning, and a passion for problem-solving.
