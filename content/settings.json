@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "AR" },
+    "logo": { "text": "Ahmad Rahman" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
