@@ -13,11 +13,6 @@ Last but not least, it has some cool features you can opt-in to: Dark Mode, Spla
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
 
----
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
----
-
 Hello! I’m Ahmad Rahman, a Full-Stack Software Engineer and AI Specialist dedicated to leveraging technology for impactful solutions. My journey through computer science has been marked by a commitment to innovation, continuous learning, and a passion for problem-solving.
 
 My technical expertise spans advanced web and server-side development, database management, and AI system development. I’m proficient in a range of programming languages and database systems, enabling me to build comprehensive and robust solutions.
@@ -27,5 +22,3 @@ After graduating summa cum laude in Computer Science from National University of
 Beyond my professional endeavors, I volunteer for Canada Learning Code, demonstrating my commitment to giving back to the community and promoting digital literacy and coding skills across Canada.
 
 I am driven by the belief that technology can transform lives and industries. I aim to remain at the cutting edge of AI and cloud computing, exploring how these technologies can drive progress and innovation.
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
