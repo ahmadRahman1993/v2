@@ -12,3 +12,5 @@ After graduating summa cum laude in Computer Science from National University of
 Beyond my professional endeavors, I volunteer for Canada Learning Code, demonstrating my commitment to giving back to the community and promoting digital literacy and coding skills across Canada.
 
 I am driven by the belief that technology can transform lives and industries. I aim to remain at the cutting edge of AI and cloud computing, exploring how these technologies can drive progress and innovation.
+
+Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
