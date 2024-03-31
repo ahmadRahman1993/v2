@@ -20,9 +20,9 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#aboutme" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Skills", "url": "/#features" },
-        { "label": "Contact", "url": "/#github" }
+        { "label": "Skills", "url": "/#skills" },
+        { "label": "Projects", "url": "#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -30,8 +30,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Back to top", "url": "" }
       ]
     },
     "featureToggles": {
