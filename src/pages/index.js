@@ -8,6 +8,7 @@ import {
   Page,
   ProjectsSection,
   Seo,
+  LegalSection,
 } from "gatsby-theme-portfolio-minimal";
 
 export default function IndexPage() {
@@ -17,7 +18,7 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Me" />
+        <LegalSection sectionId="aboutme" heading="About Me" />
         <InterestsSection sectionId="details" heading="Skills" />
         <ProjectsSection sectionId="features" heading="Projects" />
         <ContactSection sectionId="github" heading="Get in Touch" />

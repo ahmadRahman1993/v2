@@ -19,7 +19,7 @@
     "logo": { "text": "Ahmad Rahman" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "About", "url": "/#aboutme" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Skills", "url": "/#features" },
         { "label": "Contact", "url": "/#github" }

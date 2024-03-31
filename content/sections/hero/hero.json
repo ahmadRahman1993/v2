@@ -16,6 +16,6 @@
   "description": "Full-Stack Software Engineer and AI Specialist at Virtual Health Hub, dedicated to innovating in the field of Artificial Intelligence and healthcare technology.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

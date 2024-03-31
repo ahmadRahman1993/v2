@@ -1,19 +1,12 @@
 ---
-sectionId: privacy
+sectionId: aboutme
 ---
+My journey through computer science has been marked by a commitment to innovation, continuous learning, and a passion for problem-solving.
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+My technical expertise spans advanced web and server-side development, database management, and AI system development. I’m proficient in a range of programming languages and database systems, enabling me to build comprehensive and robust solutions.
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+After graduating summa cum laude in Computer Science from National University of Computer and Emerging Sciences, I pursued a Master of Science at the University of Saskatchewan. My thesis on "[Deadline-Aware Reservation-Based Scheduling](https://harvest.usask.ca/server/api/core/bitstreams/8e79a7ca-1069-403a-8241-08ce3ff4466a/content)" honed my research and analytical skills. Professionally, I've worked with the University of Saskatchewan and Netpace in San Francisco, where I developed AI models and data-driven applications, leading teams to create scalable and efficient solutions.
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+Beyond my professional endeavors, I volunteer for Canada Learning Code, demonstrating my commitment to giving back to the community and promoting digital literacy and coding skills across Canada.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
-
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
-
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
-
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
-
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+I am driven by the belief that technology can transform lives and industries. I aim to remain at the cutting edge of AI and cloud computing, exploring how these technologies can drive progress and innovation.
