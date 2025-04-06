@@ -1,4 +1,4 @@
-Hello! I’m Ahmad Rahman, a Full-Stack Software Engineer and AI Specialist dedicated to leveraging technology for impactful solutions. My journey through computer science has been marked by a commitment to innovation, continuous learning, and a passion for problem-solving.
+Hello! I’m Ahmad Rahman, Software Engineering Manager and AI Specialist dedicated to leveraging technology for impactful solutions. My journey through computer science has been marked by a commitment to innovation, continuous learning, and a passion for problem-solving.
 
 My technical expertise spans advanced web and server-side development, database management, and AI system development. I’m proficient in a range of programming languages and database systems, enabling me to build comprehensive and robust solutions.
 
