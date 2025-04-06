@@ -2,43 +2,88 @@
   "projects": [
     {
       "visible": true,
+      "category": "AI for Medical Education",
+      "title": "SPARK – Simulated Patient AI for Reflective Knowledge",
+      "description": "SPARK is an AI-powered platform that enables College of Medicine instructors to create dynamic, simulated patients with customizable personalities and clinical scenarios. Designed to enhance subjective history-taking skills, SPARK helps health science students—such as those in pharmacy and physiotherapy—practice diagnostic questioning and develop clinical empathy in a safe, controlled environment.",
+      "tags": ["AI Simulation", "Medical Education", "LLM", "Clinical Training"],
+      "image": {
+        "src": "../../images/spark.png",
+        "alt": "SPARK Virtual Patient Tool"
+      }
+    },
+    {
+      "visible": true,
+      "category": "AI for Healthcare",
+      "title": "Echo – AI Assistant for Rural Healthcare",
+      "description": "Developed at the Virtual Health Hub, Echo is a conversational AI assistant developed to provide instant, context-aware insights about rural communities in Saskatchewan. Leveraging Retrieval Augmented Generation (RAG) and Vector Databases, Echo enables healthcare decision-makers to access critical site data through natural language, streamlining virtual care planning and delivery.",
+      "tags": ["AI Assistant", "LLM", "Firebase", "Quasar"],
+      "image": {
+        "src": "../../images/echo.png",
+        "alt": "Echo AI Assistant"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Digital Health Platform",
+      "title": "Community Profiles",
+      "description": "Developed at the Virtual Health Hub, Community Profiles are a robust digital platform for capturing and visualizing health, demographic, and infrastructure data from rural and Indigenous communities across Saskatchewan. The tool empowers the Virtual Health Hub to assess community readiness and support data-informed decisions for virtual healthcare deployment.",
+      "tags": ["Data Platform", "Quasar", "Firebase", "Healthcare"],
+      "image": {
+        "src": "../../images/site-profile.png",
+        "alt": "Site Profiles Tool"
+      }
+    },
+    {
+      "visible": true,
       "category": "Full-Stack Web Development",
       "title": "Canadian Historical GIS",
-      "description": "The Canadian Historical GIS project offers access to maps and data from Canadian censuses, allowing users to explore, map, and download statistical information about Canada's evolution from the 19th to the 20th century. Users can dynamically generate, map, and download data on population, demographics, housing, agriculture, and more.",
+      "description": "The Canadian Historical GIS platform offers access to geospatial census data, allowing users to interactively explore Canada's demographic evolution from the 19th to the 20th century. The tool supports dynamic mapping, querying, and downloading of historical data for academic and public use.",
       "tags": ["Data Engineering", "GIS", "Responsive Web Design"],
       "image": {
         "src": "../../images/hgis.png",
-        "alt": "Quick Setup",
+        "alt": "Canadian Historical GIS",
         "linkTo": "https://hgiscanada.usask.ca/"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://hgiscanada.usask.ca/"
+          "url": "https://hgiscanada.usask.ca/",
+          "label": "Visit Website"
+        },
+        {
+          "type": "external",
+          "url": "https://medium.com/@ahmadrahman/building-the-canadian-historical-gis-visualizing-canadas-past-through-interactive-maps-8735325cd9b5",
+          "label": "Read Article"
         }
       ]
     },
     {
       "visible": false,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Full-Stack System Design",
+      "title": "Facility Profiles & Registration Portal",
+      "description": "A comprehensive portal designed for healthcare facilities to register with the Virtual Health Hub and manage their onboarding journey. The system supports data collection, multi-stage tracking, and facility engagement through conditional dashboards and dynamic forms.",
+      "tags": ["System Architecture", "Admin Portal", "Quasar", "Firebase"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/facility-profiles.png",
+        "alt": "Facility Profiles Portal"
+      }
+    },
+    {
+      "visible": false,
+      "category": "Health Data Intelligence",
+      "title": "Site Scoring Tool",
+      "description": "An intelligent decision-support system that ranks rural communities based on multiple weighted criteria, such as population, distance to care, and existing infrastructure. This tool plays a pivotal role in prioritizing communities for virtual health interventions within the province.",
+      "tags": ["Scoring Algorithms", "Data Modeling", "Quasar", "Decision Support"],
+      "image": {
+        "src": "../../images/site-scoring.png",
+        "alt": "Site Scoring Tool",
+        "linkTo": "https://medium.com/@ahmadrahman"
+      }
     }
   ],
   "button": {
     "visible": false,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "",
+    "url": ""
   }
 }
