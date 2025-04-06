@@ -4,12 +4,20 @@
       "visible": true,
       "category": "AI for Medical Education",
       "title": "SPARK – Simulated Patient AI for Reflective Knowledge",
-      "description": "SPARK is an AI-powered platform that enables College of Medicine instructors to create dynamic, simulated patients with customizable personalities and clinical scenarios. Designed to enhance subjective history-taking skills, SPARK helps health science students—such as those in pharmacy and physiotherapy—practice diagnostic questioning and develop clinical empathy in a safe, controlled environment.",
+      "description": "SPARK is an AI-powered platform that enables health science instructors to create dynamic, simulated patients with customizable personalities and clinical scenarios. Designed to enhance subjective history-taking skills, SPARK helps health science students—such as those in pharmacy and physiotherapy—practice diagnostic questioning and develop clinical empathy in a safe, controlled environment.",
       "tags": ["AI Simulation", "Medical Education", "LLM", "Clinical Training"],
       "image": {
         "src": "../../images/spark.png",
-        "alt": "SPARK Virtual Patient Tool"
-      }
+        "alt": "SPARK Virtual Patient Tool",
+        "linkTo": "https://sparkai.web.app/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sparkai.web.app/",
+          "label": "Visit Website"
+        }
+      ]
     },
     {
       "visible": true,
