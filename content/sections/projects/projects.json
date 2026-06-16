@@ -37,6 +37,49 @@
     },
     {
       "visible": true,
+      "category": "Open Source AI",
+      "title": "health-rag - Medical RAG Evaluation System",
+      "description": "health-rag is an open-source retrieval-augmented generation system over a medical Q&A corpus. It pairs a working RAG pipeline with a scenario-based evaluation harness, comparing chunking, retrieval, MMR, and reranking choices against a golden set of factual, multi-source, and refusal cases.",
+      "tags": ["RAG", "Python", "FAISS", "LLM Evaluation"],
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": "health-rag Open Source Project",
+        "linkTo": "https://github.com/ahmadRahman1993/health-rag"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://github.com/ahmadRahman1993/health-rag",
+          "label": "GitHub"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Open Source AI",
+      "title": "reliability-eval - Calibration-First LLM Evaluation",
+      "description": "reliability-eval is an open-source Node/TypeScript library for calibration-first LLM evaluation. It goes beyond accuracy with expected calibration error, Brier score, reliability diagrams, and paired statistical tests for comparing model behavior with more rigor.",
+      "tags": ["TypeScript", "npm", "LLM Evaluation", "Calibration"],
+      "image": {
+        "src": "../../images/js.png",
+        "alt": "reliability-eval Open Source Package",
+        "linkTo": "https://www.npmjs.com/package/reliability-eval"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://github.com/ahmadRahman1993/reliability-eval",
+          "label": "GitHub"
+        },
+        {
+          "type": "external",
+          "url": "https://www.npmjs.com/package/reliability-eval",
+          "label": "npm"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "AI Clinical Documentation",
       "title": "EchoPCR - AI-Assisted Paramedic Reporting",
       "description": "EchoPCR is an AI clinical documentation system for paramedics. I built the streaming speech-to-text and LLM-driven structured JSON generation pipeline for patient care reports. Early trial results reduced documentation time from 45-120 minutes to 10-20 minutes per report, and the system is now in active field trial with La Ronge EMS.",
