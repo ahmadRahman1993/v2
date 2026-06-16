@@ -4,15 +4,15 @@
     "siteUrl": "https://ahmadrahmanv2.netlify.app/",
     "title": "Ahmad",
     "titleTemplate": "Rahman",
-    "description": "Ahmad Rahman - Personal Website",
+    "description": "Senior AI engineer building production LLM systems, applied AI products, and full-stack platforms.",
     "author": "Ahmad Rahman",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Senior AI engineer focused on production LLM systems, evaluation, and full-stack AI products.",
     "social": {
       "github": "https://github.com/ahmadRahman1993",
       "medium": "https://medium.com/@ahmadrahman",
       "linkedin": "https://www.linkedin.com/in/ahmad-rahman/",
-      "mail": "mailto:ahmad.rahamn@live.com"
+      "mail": "mailto:ahmad.rahman@live.com"
     }
   },
   "siteConfiguration": {
