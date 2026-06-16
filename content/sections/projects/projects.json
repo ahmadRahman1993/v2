@@ -120,7 +120,7 @@
       "description": "I architected and delivered VHH PATH, a 10-module digital health ecosystem used by practitioners, planners, and administrators across Saskatchewan. The platform combines data systems, decision support, facility readiness workflows, technology evaluation, and AI-assisted planning in a single cloud-based environment.",
       "tags": ["Vue", "Quasar", "Firebase", "Platform Architecture"],
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/vhhpath.png",
         "alt": "VHH PATH Platform"
       }
     },
