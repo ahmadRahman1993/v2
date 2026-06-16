@@ -1,49 +1,84 @@
 {
   "interests": [
     {
-      "label": "LLM Systems",
+      "label": "Production LLM Systems",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "RAG and Retrieval",
+      "label": "RAG Architecture",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "AI Engineering",
+      "label": "Embedding and Vector Search",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Cloud Architecture",
+      "label": "LLM Evaluation and Calibration",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Full-Stack Product Delivery",
+      "label": "Structured Outputs and Function Calling",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Evaluation and Guardrails",
+      "label": "Domain-Constrained AI and Guardrails",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Technical Leadership",
+      "label": "Speech-to-Text and Clinical Documentation",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GCP, Vertex AI, Firebase, and Firestore",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python, TypeScript, JavaScript, and SQL",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React, Next.js, Vue, and Quasar",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Healthcare AI, HL7/FHIR, and Data Governance",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Technical Leadership and Product Ownership",
       "image": {
         "src": "",
         "alt": ""
@@ -53,6 +88,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 7
+    "initiallyShownInterests": 8
   }
 }
