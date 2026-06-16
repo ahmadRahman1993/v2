@@ -7,7 +7,7 @@
       "description": "SPARK is an LLM-powered simulated patient platform for health professions education. I built the instructor persona-authoring workflow, multi-turn conversational engine, persistent session state, cohort management, and learner review tooling. The platform has been deployed across two Canadian universities and used by 264 learners to date.",
       "tags": ["LLM", "Next.js", "React", "Firebase"],
       "image": {
-        "src": "../../images/spark.png",
+        "src": "../../images/spark2.png",
         "alt": "SPARK Virtual Patient Tool",
         "linkTo": "https://spark.coresyntax.ai/"
       },
@@ -42,7 +42,7 @@
       "description": "health-rag is an open-source retrieval-augmented generation system over a medical Q&A corpus. It pairs a working RAG pipeline with a scenario-based evaluation harness, comparing chunking, retrieval, MMR, and reranking choices against a golden set of factual, multi-source, and refusal cases.",
       "tags": ["RAG", "Python", "FAISS", "LLM Evaluation"],
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/healthrag.png",
         "alt": "health-rag Open Source Project",
         "linkTo": "https://github.com/ahmadRahman1993/health-rag"
       },
@@ -61,7 +61,7 @@
       "description": "reliability-eval is an open-source Node/TypeScript library for calibration-first LLM evaluation. It goes beyond accuracy with expected calibration error, Brier score, reliability diagrams, and paired statistical tests for comparing model behavior with more rigor.",
       "tags": ["TypeScript", "npm", "LLM Evaluation", "Calibration"],
       "image": {
-        "src": "../../images/js.png",
+        "src": "../../images/reliability-eval.png",
         "alt": "reliability-eval Open Source Package",
         "linkTo": "https://www.npmjs.com/package/reliability-eval"
       },
@@ -85,7 +85,7 @@
       "description": "EchoPCR is an AI clinical documentation system for paramedics. I built the streaming speech-to-text and LLM-driven structured JSON generation pipeline for patient care reports. Early trial results reduced documentation time from 45-120 minutes to 10-20 minutes per report, and the system is now in active field trial with La Ronge EMS.",
       "tags": ["Speech-to-Text", "Structured Output", "Healthcare AI", "Realtime"],
       "image": {
-        "src": "../../images/site-profile.png",
+        "src": "../../images/echopcr.png",
         "alt": "EchoPCR Clinical Documentation Tool"
       }
     },
@@ -96,7 +96,7 @@
       "description": "SREDER is an AI-assisted SR&ED reporting platform for CRA-compliant technical documentation. I built the transcription, structured report generation, Stripe-based credit billing, and multi-tenant role-based access model. The system has generated 50+ reports in production while reducing report preparation time from 2-3 hours to under 20 minutes.",
       "tags": ["SaaS", "Stripe", "Multi-Tenant", "LLM"],
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/sreder.png",
         "alt": "SREDER Reporting Platform",
         "linkTo": "https://sreder.ca/"
       },
