@@ -2,29 +2,34 @@
   "projects": [
     {
       "visible": true,
-      "category": "AI for Medical Education",
-      "title": "SPARK – Simulated Patient AI for Reflective Knowledge",
-      "description": "SPARK is an AI-powered platform that enables health science instructors to create dynamic, simulated patients with customizable personalities and clinical scenarios. Designed to enhance subjective history-taking skills, SPARK helps health science students—such as those in pharmacy and physiotherapy—practice diagnostic questioning and develop clinical empathy in a safe, controlled environment.",
-      "tags": ["AI Simulation", "Medical Education", "LLM", "Clinical Training"],
+      "category": "Applied AI Product",
+      "title": "SPARK - Simulated Patient AI for Reflective Knowledge",
+      "description": "SPARK is an LLM-powered simulated patient platform for health professions education. I built the instructor persona-authoring workflow, multi-turn conversational engine, persistent session state, cohort management, and learner review tooling. The platform has been deployed across two Canadian universities and used by 264 learners to date.",
+      "tags": ["LLM", "Next.js", "React", "Firebase"],
       "image": {
         "src": "../../images/spark.png",
         "alt": "SPARK Virtual Patient Tool",
-        "linkTo": "https://sparkai.web.app/"
+        "linkTo": "https://spark.coresyntax.ai/"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://sparkai.web.app/",
-          "label": "Visit Website"
+          "url": "https://spark.coresyntax.ai/",
+          "label": "Visit SPARK"
+        },
+        {
+          "type": "external",
+          "url": "https://coresyntax.ai/",
+          "label": "Core Syntax"
         }
       ]
     },
     {
       "visible": true,
       "category": "AI for Healthcare",
-      "title": "Echo – AI Assistant for Rural Healthcare",
-      "description": "Developed at the Virtual Health Hub, Echo is a conversational AI assistant developed to provide instant, context-aware insights about rural communities in Saskatchewan. Leveraging Retrieval Augmented Generation (RAG) and Vector Databases, Echo enables healthcare decision-makers to access critical site data through natural language, streamlining virtual care planning and delivery.",
-      "tags": ["AI Assistant", "LLM", "Firebase", "Quasar"],
+      "title": "Echo - AI Assistant for Rural Healthcare",
+      "description": "Echo is a production RAG-based conversational AI assistant for rural healthcare planners in Saskatchewan. I designed record-aware chunking over structured datasets, embedding and retrieval workflows, domain-constrained response boundaries, provenance surfacing, and evaluation methodology that showed 3.9x faster task completion than traditional retrieval in published testing.",
+      "tags": ["RAG", "Vertex AI", "Firestore", "Evaluation"],
       "image": {
         "src": "../../images/echo.png",
         "alt": "Echo AI Assistant"
@@ -32,20 +37,55 @@
     },
     {
       "visible": true,
-      "category": "Digital Health Platform",
-      "title": "Community Profiles",
-      "description": "Developed at the Virtual Health Hub, Community Profiles are a robust digital platform for capturing and visualizing health, demographic, and infrastructure data from rural and Indigenous communities across Saskatchewan. The tool empowers the Virtual Health Hub to assess community readiness and support data-informed decisions for virtual healthcare deployment.",
-      "tags": ["Data Platform", "Quasar", "Firebase", "Healthcare"],
+      "category": "AI Clinical Documentation",
+      "title": "EchoPCR - AI-Assisted Paramedic Reporting",
+      "description": "EchoPCR is an AI clinical documentation system for paramedics. I built the streaming speech-to-text and LLM-driven structured JSON generation pipeline for patient care reports. Early trial results reduced documentation time from 45-120 minutes to 10-20 minutes per report, and the system is now in active field trial with La Ronge EMS.",
+      "tags": ["Speech-to-Text", "Structured Output", "Healthcare AI", "Realtime"],
       "image": {
         "src": "../../images/site-profile.png",
-        "alt": "Site Profiles Tool"
+        "alt": "EchoPCR Clinical Documentation Tool"
       }
     },
     {
       "visible": true,
-      "category": "Full-Stack Web Development",
+      "category": "Applied AI Product",
+      "title": "SREDER - AI-Assisted SR&ED Reporting",
+      "description": "SREDER is an AI-assisted SR&ED reporting platform for CRA-compliant technical documentation. I built the transcription, structured report generation, Stripe-based credit billing, and multi-tenant role-based access model. The system has generated 50+ reports in production while reducing report preparation time from 2-3 hours to under 20 minutes.",
+      "tags": ["SaaS", "Stripe", "Multi-Tenant", "LLM"],
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": "SREDER Reporting Platform",
+        "linkTo": "https://sreder.ca/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sreder.ca/",
+          "label": "Visit SREDER"
+        },
+        {
+          "type": "external",
+          "url": "https://coresyntax.ai/",
+          "label": "Core Syntax"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Digital Health Platform",
+      "title": "VHH PATH - Virtual Care Implementation Platform",
+      "description": "I architected and delivered VHH PATH, a 10-module digital health ecosystem used by practitioners, planners, and administrators across Saskatchewan. The platform combines data systems, decision support, facility readiness workflows, technology evaluation, and AI-assisted planning in a single cloud-based environment.",
+      "tags": ["Vue", "Quasar", "Firebase", "Platform Architecture"],
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": "VHH PATH Platform"
+      }
+    },
+    {
+      "visible": true,
+      "category": "Research and Data Infrastructure",
       "title": "Canadian Historical GIS",
-      "description": "The Canadian Historical GIS platform offers access to geospatial census data, allowing users to interactively explore Canada's demographic evolution from the 19th to the 20th century. The tool supports dynamic mapping, querying, and downloading of historical data for academic and public use.",
+      "description": "The Canadian Historical GIS platform gives researchers access to historical geospatial census data through interactive exploration, querying, and downloads. I built data infrastructure and web tooling that supported large-scale academic use and public access.",
       "tags": ["Data Engineering", "GIS", "Responsive Web Design"],
       "image": {
         "src": "../../images/hgis.png",
@@ -72,7 +112,7 @@
       "description": "A comprehensive portal designed for healthcare facilities to register with the Virtual Health Hub and manage their onboarding journey. The system supports data collection, multi-stage tracking, and facility engagement through conditional dashboards and dynamic forms.",
       "tags": ["System Architecture", "Admin Portal", "Quasar", "Firebase"],
       "image": {
-        "src": "../../images/facility-profiles.png",
+        "src": "../../images/site-profile.png",
         "alt": "Facility Profiles Portal"
       }
     },
@@ -83,15 +123,15 @@
       "description": "An intelligent decision-support system that ranks rural communities based on multiple weighted criteria, such as population, distance to care, and existing infrastructure. This tool plays a pivotal role in prioritizing communities for virtual health interventions within the province.",
       "tags": ["Scoring Algorithms", "Data Modeling", "Quasar", "Decision Support"],
       "image": {
-        "src": "../../images/site-scoring.png",
+        "src": "../../images/high-voltage.png",
         "alt": "Site Scoring Tool",
         "linkTo": "https://medium.com/@ahmadrahman"
       }
     }
   ],
   "button": {
-    "visible": false,
-    "label": "",
-    "url": ""
+    "visible": true,
+    "label": "View Resume",
+    "url": "/resume.pdf"
   }
 }
