@@ -1,7 +1,14 @@
 {
   "interests": [
     {
-      "label": "Software Project Mangement",
+      "label": "LLM Systems",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RAG and Retrieval",
       "image": {
         "src": "",
         "alt": ""
@@ -15,35 +22,28 @@
       }
     },
     {
-      "label": "Software Engineering",
+      "label": "Cloud Architecture",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Data Engineering",
+      "label": "Full-Stack Product Delivery",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Full-Stack Web Development",
+      "label": "Evaluation and Guardrails",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "GIS Devlopment",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Mobile Development",
+      "label": "Technical Leadership",
       "image": {
         "src": "",
         "alt": ""
@@ -53,6 +53,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 7
   }
 }

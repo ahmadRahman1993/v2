@@ -10,10 +10,10 @@
   },
   "title": "I'm Ahmad.",
   "subtitle": {
-    "prefix": "",
+    "prefix": "Senior AI Engineer",
     "suffix": ""
   },
-  "description": "Software Engineering Manager and AI Specialist at Virtual Health Hub, dedicated to innovating in the field of Artificial Intelligence and healthcare technology.",
+  "description": "I build production LLM systems, evaluation pipelines, and full-stack AI products across healthcare, education, and enterprise.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
