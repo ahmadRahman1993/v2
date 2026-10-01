@@ -20,7 +20,13 @@
       "image": {
         "src": "../../images/echopcr.png",
         "alt": "EchoPCR Clinical Documentation Tool"
-      }
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://echopcr.ca",
+          "label": "EchoPCR"
+        }]
     },
     {
       "visible": true,
