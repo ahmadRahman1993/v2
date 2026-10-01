@@ -2,33 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "Applied AI Product",
-      "title": "SPARK - Simulated Patient AI for Reflective Knowledge",
-      "description": "SPARK is an LLM-powered simulated patient platform for health professions education. I built the instructor persona-authoring workflow, multi-turn conversational engine, persistent session state, cohort management, and learner review tooling. The platform has been deployed across two Canadian universities and used by 264 learners to date.",
-      "tags": ["LLM", "Next.js", "React", "Firebase"],
-      "image": {
-        "src": "../../images/spark2.png",
-        "alt": "SPARK Virtual Patient Tool",
-        "linkTo": "https://spark.coresyntax.ai/"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://spark.coresyntax.ai/",
-          "label": "Visit SPARK"
-        },
-        {
-          "type": "external",
-          "url": "https://coresyntax.ai/",
-          "label": "Core Syntax"
-        }
-      ]
-    },
-    {
-      "visible": true,
       "category": "AI for Healthcare",
       "title": "Echo - AI Assistant for Rural Healthcare",
-      "description": "Echo is a production RAG-based conversational AI assistant for rural healthcare planners in Saskatchewan. I designed record-aware chunking over structured datasets, embedding and retrieval workflows, domain-constrained response boundaries, provenance surfacing, and evaluation methodology that showed 3.9x faster task completion than traditional retrieval in published testing.",
+      "description": "Echo is a production RAG-based conversational AI assistant for rural healthcare planners in Saskatchewan. I designed record-aware chunking over structured datasets, embedding and retrieval workflows, domain-constrained response boundaries, provenance surfacing, and evaluation methodology that showed 3.9x faster task completion than traditional retrieval. A formal evaluation study found that median task time fell from 31s to 8s, with 92.8% of responses fully or partially correct (n=98).",
       "tags": ["RAG", "Vertex AI", "Firestore", "Evaluation"],
       "image": {
         "src": "../../images/echo.png",
@@ -37,22 +13,14 @@
     },
     {
       "visible": true,
-      "category": "Open Source AI",
-      "title": "health-rag - Medical RAG Evaluation System",
-      "description": "health-rag is an open-source retrieval-augmented generation system over a medical Q&A corpus. It pairs a working RAG pipeline with a scenario-based evaluation harness, comparing chunking, retrieval, MMR, and reranking choices against a golden set of factual, multi-source, and refusal cases.",
-      "tags": ["RAG", "Python", "FAISS", "LLM Evaluation"],
+      "category": "AI Clinical Documentation",
+      "title": "EchoPCR - AI-Assisted Paramedic Reporting",
+      "description": "EchoPCR is an AI clinical documentation system for paramedics. I built the streaming speech-to-text and LLM-driven structured JSON generation pipeline for patient care reports. Early trial results reduced documentation time from 45-120 minutes to 10-20 minutes per report, and the system is now in active field trial with La Ronge EMS.",
+      "tags": ["Speech-to-Text", "Structured Output", "Healthcare AI", "Realtime"],
       "image": {
-        "src": "../../images/healthrag.png",
-        "alt": "health-rag Open Source Project",
-        "linkTo": "https://github.com/ahmadRahman1993/health-rag"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://github.com/ahmadRahman1993/health-rag",
-          "label": "GitHub"
-        }
-      ]
+        "src": "../../images/echopcr.png",
+        "alt": "EchoPCR Clinical Documentation Tool"
+      }
     },
     {
       "visible": true,
@@ -80,14 +48,46 @@
     },
     {
       "visible": true,
-      "category": "AI Clinical Documentation",
-      "title": "EchoPCR - AI-Assisted Paramedic Reporting",
-      "description": "EchoPCR is an AI clinical documentation system for paramedics. I built the streaming speech-to-text and LLM-driven structured JSON generation pipeline for patient care reports. Early trial results reduced documentation time from 45-120 minutes to 10-20 minutes per report, and the system is now in active field trial with La Ronge EMS.",
-      "tags": ["Speech-to-Text", "Structured Output", "Healthcare AI", "Realtime"],
+      "category": "Open Source AI",
+      "title": "health-rag - Medical RAG Evaluation System",
+      "description": "health-rag is an open-source retrieval-augmented generation system over a medical Q&A corpus. It pairs a working RAG pipeline with a scenario-based evaluation harness, comparing chunking, retrieval, MMR, and reranking choices against a golden set of factual, multi-source, and refusal cases.",
+      "tags": ["RAG", "Python", "FAISS", "LLM Evaluation"],
       "image": {
-        "src": "../../images/echopcr.png",
-        "alt": "EchoPCR Clinical Documentation Tool"
-      }
+        "src": "../../images/healthrag.png",
+        "alt": "health-rag Open Source Project",
+        "linkTo": "https://github.com/ahmadRahman1993/health-rag"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://github.com/ahmadRahman1993/health-rag",
+          "label": "GitHub"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Applied AI Product",
+      "title": "SPARK - Simulated Patient AI for Reflective Knowledge",
+      "description": "SPARK is an LLM-powered simulated patient platform for health professions education. I built the instructor persona-authoring workflow, multi-turn conversational engine, persistent session state, cohort management, and learner review tooling. The platform has been deployed across two Canadian universities and used by 264 learners to date.",
+      "tags": ["LLM", "Next.js", "React", "Firebase"],
+      "image": {
+        "src": "../../images/spark2.png",
+        "alt": "SPARK Virtual Patient Tool",
+        "linkTo": "https://spark.coresyntax.ai/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://spark.coresyntax.ai/",
+          "label": "Visit SPARK"
+        },
+        {
+          "type": "external",
+          "url": "https://coresyntax.ai/",
+          "label": "Core Syntax"
+        }
+      ]
     },
     {
       "visible": true,
